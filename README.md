@@ -12,7 +12,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-cesarbarruetoa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cesarbarruetoa/)
 [![Email](https://img.shields.io/badge/Email-barrueto.ignacio.10%40gmail.com-05060f?style=for-the-badge&logo=gmail&logoColor=white)](mailto:barrueto.ignacio.10@gmail.com)
 
-<sub>🇨🇱 ¿Prefieres español? Mi <a href="https://cesarbarrueto0409.github.io/">portafolio</a> está en español e inglés, con demos interactivas de cada proyecto.</sub>
+<sub>🌎 ¿Prefieres español? Mi <a href="https://cesarbarrueto0409.github.io/">portafolio</a> está en español e inglés, con demos interactivas de cada proyecto.</sub>
 
 </div>
 
